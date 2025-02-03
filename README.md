@@ -1,4 +1,10 @@
-# Farmer's Crop Optimization 
+**Tutorial: Building an Optimization Solver Using OR-Tools & SplashKit**
+
+**Introduction**
+
+Optimisation is a powerful mathematical technique used to find the best possible solution under a given set of constraints. In this tutorial, I will use a a Farmer's Crop Optimisation tool using:
+
+# Case Example: Farmer's Crop Optimisation 
 
 An **interactive linear programming solver** built using **Google OR-Tools** and **SplashKit**. This application helps a **farmer** determine the **optimal number of acres** to allocate between **wheat** and **barley** to maximize **profit** while considering constraints like **land availability** and **labor hours**.
 
