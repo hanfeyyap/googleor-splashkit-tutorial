@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0ZljROFwM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yapha\\Documents\\OnTrack\\SIT771\\Task 7.4HD\\ILP-solver-tutorial\\ILP_solver_tutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yapha\\.nuget\\packages\\google.ortools\\9.11.4210\\google.ortools.9.11.4210.nupkg.sha512",
+    "C:\\Users\\yapha\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.11.4210\\google.ortools.runtime.linux-arm64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\yapha\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.11.4210\\google.ortools.runtime.linux-x64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\yapha\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.11.4210\\google.ortools.runtime.osx-arm64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\yapha\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.11.4210\\google.ortools.runtime.osx-x64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\yapha\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.11.4210\\google.ortools.runtime.win-x64.9.11.4210.nupkg.sha512",
+    "C:\\Users\\yapha\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512"
+  ],
+  "logs": []
+}
