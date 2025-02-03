@@ -31,7 +31,7 @@ This project can be extended for **other optimization problems**, such as **fact
 
 ## **Installation & Setup**
 
-### **1️Prerequisites**
+### **Prerequisites**
 Ensure you have the following installed:
 - **C# (.NET SDK)**
 - **Google OR-Tools**
